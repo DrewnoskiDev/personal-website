@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif; /* Sets the font */
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Light gray background */
+    color: #333; /* Dark gray text */
+}
+
+header {
+    background: #333; /* Dark header background */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none; /* Removes default bullet points */
+    padding: 0;
+    text-align: center;
+    background: #555
+}
+
+nav ul li {
+    display: inline;
+    margin: 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1); /* Adds a subtle shadow */
+}
+
+.project {
+    background: #f9f9f9;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+.project a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.project a:hover {
+    text-decoration: underline;
+}
+
+#no-projects-message {
+    display: block !important; /*Ensure it's visible */
+    font-style: italic;
+    color: #777;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.profile-pic {
+    display: block;
+    margin: 0 auto;
+    width: 150px; /* Adjust size as needed */
+    height: auto; /* Keeps the aspect ratio */
+    border-radius: 50%; /* Makes it a circle */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3); /* Adds a soft shadow */
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.social-links img {
+    width: 40px;
+    height: 40px;
+    transition: transform 0.3s ease;
+}
+
+.social-links img:hover {
+    transform: scale(1.2); /* Slightly enlarges on hover */
+}
