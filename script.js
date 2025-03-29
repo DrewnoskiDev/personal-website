@@ -3,12 +3,12 @@ const projects = [
     {
         title: "Simple To-Do List",
         description: "A basic to-do list app using JavaScript and local storage.",
-        link: "https://github.com/DrewnoskiDev/todo-app" // Replace with your actual GitHub link
+        link: "https://github.com/DrewnoskiDev/todo-app"
     },
     {
         title: "Unit Converter",
         description: "A simple tool to convert miles to kilometers.",
-        link: "https://github.com/drewnoskidev/unit-converter" // Replace with your actual GitHub link
+        link: "https://github.com/DrewnoskiDev/unit-converter"
     }
 ];
 
