@@ -8,7 +8,7 @@ const projects = [
     {
         title: "Unit Converter",
         description: "A simple tool to convert miles to kilometers.",
-        link: "https://github.com/yourgithub/unit-converter" // Replace with your actual GitHub link
+        link: "https://github.com/drewnoskidev/unit-converter" // Replace with your actual GitHub link
     }
 ];
 
