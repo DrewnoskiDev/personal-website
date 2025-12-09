@@ -1,0 +1,73 @@
+Keith A. Drewnoski
+39039 Crestview Rd, Leetonia, OH 44431 | (330) 719-3490 | drewnoski.dev@gmail.com
+LinkedIn: https://www.linkedin.com/in/keith-drewnoski-131846283/
+
+PROFESSIONAL SUMMARY
+
+Software Developer and Quality Assurance professional with hands-on experience developing and testing production web applications. Developed and delivered MVP (Minimum Viable Product) for production Angular-based web application, building core features from concept to deployment. Strong foundation in software development, functional testing, regression testing, and exploratory testing methodologies. Background in special education has honed exceptional attention to detail, analytical thinking, and clear communication skills—essential for writing clean, efficient code and creating comprehensive bug reports. Avid problem-solver seeking entry-level opportunities in software development, QA, or educational technology where I can contribute, learn, and grow.
+
+CORE SKILLS
+
+Software Development: JavaScript, TypeScript, Angular | HTML, CSS | Git & GitHub | Object-Oriented Programming | Debugging & Troubleshooting | MVP Development
+
+QA & Testing: Functional Testing | Regression Testing | Exploratory Testing | Bug Identification & Reproduction | Cross-browser Testing | UI/UX Testing
+
+Tools: Bug Tracking Systems (Jira-ready) | Version Control | Browser DevTools | Cross-platform Testing (Windows, macOS, iOS) | Unity, Unreal Engine
+
+Soft Skills: Meticulous Attention to Detail | Clear Written Communication | Creative Problem-Solving | Self-Starter | Team Collaboration
+
+SOFTWARE DEVELOPMENT & QA EXPERIENCE
+
+Software Developer & QA Tester | Production Web Application | 2024 - Present
+
+• Developed and delivered MVP (Minimum Viable Product) for production Angular-based web application, building core features from concept to deployment using Angular, TypeScript, and modern web technologies
+• Performed comprehensive QA testing including functional, regression, and user acceptance testing across multiple user roles and permission levels
+• Identified and documented bugs, edge cases, and usability issues throughout development lifecycle
+• Tested cross-browser compatibility (Chrome, Safari, Firefox) and responsive design across devices
+• Executed test cases for complex workflows including authentication, data validation, and role-based access controls
+• Collaborated with stakeholders to gather requirements, deliver features, and ensure quality standards
+• Documented test results, provided actionable UX feedback, and delivered production-ready application
+
+Key Achievements: Built and delivered production MVP • Identified critical bugs in authentication flow • Discovered edge cases in data validation • Improved workflow efficiency through UX feedback
+
+TECHNICAL EXPERIENCE
+
+Game Development & Testing | Tech Academy Bootcamp – Video Game Development | 2023 - 2024
+
+• Developed and tested games using Unity (C#) and Unreal Engine (C++)
+• Performed debugging and optimization testing to improve game performance
+• Created and executed test scenarios for game mechanics, UI elements, and level design
+• Identified and resolved bugs in gameplay systems, collision detection, and user interfaces
+• Collaborated on team projects using Git/GitHub and Agile methodologies
+
+Skills: C#, C++, JavaScript, SQL, HTML, CSS | Unity & Unreal Engine | OOP | Debugging | Version Control
+
+PROFESSIONAL EXPERIENCE
+
+Education Intervention Specialist | Various Schools | Fall 2016 – Spring 2024
+
+• Developed and maintained detailed Individualized Education Programs (IEPs) requiring meticulous documentation and compliance tracking
+• Created comprehensive documentation of student progress with clear, actionable data analysis
+• Evaluated and tested educational software and tools for effectiveness and accessibility
+• Collaborated with cross-functional teams to ensure quality outcomes
+
+Transferable Skills: Systematic issue identification • Clear documentation • User-focused problem-solving • Quality assurance mindset
+
+Assistant Football Coach | Various High Schools | Fall 2014 – Spring 2023
+
+• Analyzed game film and statistics to identify patterns and areas for improvement
+• Developed strategic game plans based on systematic analysis
+
+EDUCATION & TRAINING
+
+Tech Academy Bootcamp – Video Game Development | Aug 2023 - May 2024
+Intensive bootcamp covering game design, debugging, testing, and optimization. Proficient in C#, C++, JavaScript, Unity, and Unreal Engine.
+
+Notre Dame College – South Euclid, OH
+Bachelor of Liberal Arts, Minor in Coaching | Emphasis in Special Education | Licensed Intervention Specialist
+
+ADDITIONAL INFORMATION
+
+Availability: Flexible hours, remote work preferred | Open to: Full-time, part-time, internships, and apprenticeships
+Seeking: Entry-Level Software Developer, QA Engineer, Software Tester, or Educational Technology roles
+Industries: Open to gaming, educational software, or any industry where quality code and user experience matter

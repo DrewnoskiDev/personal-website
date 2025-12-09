@@ -1,0 +1,73 @@
+Keith A. Drewnoski
+39039 Crestview Rd, Leetonia, OH 44431 | (330) 719-3490 | drewnoski.dev@gmail.com
+LinkedIn: https://www.linkedin.com/in/keith-drewnoski-131846283/
+
+PROFESSIONAL SUMMARY
+
+Detail-oriented Quality Assurance professional and aspiring software developer with hands-on experience testing production web applications. Strong foundation in functional, regression, and exploratory testing methodologies. Background in special education has honed exceptional attention to detail, analytical thinking, and clear communication skills—essential for creating comprehensive bug reports and writing clean, efficient code. Avid problem-solver seeking entry-level opportunities in QA, software development, or educational technology where I can contribute, learn, and grow.
+
+CORE SKILLS
+
+QA & Testing: Functional Testing | Regression Testing | Exploratory Testing | Bug Identification & Reproduction | Cross-browser Testing | UI/UX Testing
+
+Technical: JavaScript, TypeScript, Angular | HTML, CSS | Git & GitHub | Unity, Unreal Engine | Object-Oriented Programming | Debugging & Troubleshooting
+
+Tools: Bug Tracking Systems (Jira-ready) | Version Control | Browser DevTools | Cross-platform Testing (Windows, macOS, iOS)
+
+Soft Skills: Meticulous Attention to Detail | Clear Written Communication | Creative Problem-Solving | Self-Starter | Team Collaboration
+
+QA & TESTING EXPERIENCE
+
+Software Testing & Quality Assurance | Production Web Application | 2024 - Present
+
+• Performed comprehensive testing of Angular-based production application including functional, regression, and user acceptance testing
+• Identified and documented bugs, edge cases, and usability issues across multiple user roles and permission levels
+• Tested cross-browser compatibility (Chrome, Safari, Firefox) and responsive design across devices
+• Executed test cases for complex workflows including authentication, data validation, and role-based access controls
+• Collaborated with development team to reproduce bugs and verify fixes
+• Documented test results and provided actionable UX feedback
+
+Key Achievements: Identified critical bugs in authentication flow • Discovered edge cases in data validation • Improved workflow efficiency through UX feedback
+
+TECHNICAL EXPERIENCE
+
+Game Development & Testing | Tech Academy Bootcamp – Video Game Development | 2023 - 2024
+
+• Developed and tested games using Unity (C#) and Unreal Engine (C++)
+• Performed debugging and optimization testing to improve game performance
+• Created and executed test scenarios for game mechanics, UI elements, and level design
+• Identified and resolved bugs in gameplay systems, collision detection, and user interfaces
+• Collaborated on team projects using Git/GitHub and Agile methodologies
+
+Skills: C#, C++, JavaScript, SQL, HTML, CSS | Unity & Unreal Engine | OOP | Debugging | Version Control
+
+PROFESSIONAL EXPERIENCE
+
+Education Intervention Specialist | Various Schools | Fall 2016 – Spring 2024
+
+• Developed and maintained detailed Individualized Education Programs (IEPs) requiring meticulous documentation and compliance tracking
+• Created comprehensive documentation of student progress with clear, actionable data analysis
+• Evaluated and tested educational software and tools for effectiveness and accessibility
+• Collaborated with cross-functional teams to ensure quality outcomes
+
+Transferable Skills: Systematic issue identification • Clear documentation • User-focused problem-solving • Quality assurance mindset
+
+Assistant Football Coach | Various High Schools | Fall 2014 – Spring 2023
+
+• Analyzed game film and statistics to identify patterns and areas for improvement
+• Developed strategic game plans based on systematic analysis
+
+EDUCATION & TRAINING
+
+Tech Academy Bootcamp – Video Game Development | Aug 2023 - May 2024
+Intensive bootcamp covering game design, debugging, testing, and optimization. Proficient in C#, C++, JavaScript, Unity, and Unreal Engine.
+
+Notre Dame College – South Euclid, OH
+Bachelor of Liberal Arts and Sciences, Minor in Coaching | Emphasis in Special Education
+Professional Intervention Specialist License (Mild/Moderate, K-12)
+
+ADDITIONAL INFORMATION
+
+Availability: Flexible hours, remote work preferred | Open to: Full-time, part-time, internships, and apprenticeships
+Seeking: QA Engineer, Software Tester, Entry-Level Software Developer, or Educational Technology roles
+Industries: Open to gaming, educational software, or any industry where quality and user experience matter
