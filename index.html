@@ -1,60 +1,155 @@
-<!DOCTYPE html> <!-- Tells the browser this is an HTML5 document -->
-<html lang="en"> <!-- The root of your webpage, with English as the language -->
-<head>
-    <meta charset="UTF-8"> <!-- Ensures the webpage displays characters correctly -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Makes the page mobile-friendly -->
-    <title>My Personal Website</title> <!-- The title shown on the browser tab -->
-    <link rel="stylesheet" href="style.css"> <!-- Links to your CSS file for styling -->
-    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-    <link rel="manifest" href="site.webmanifest">
-</head>
-<body>
-
+<!DOCTYPE html>
+<!-- Tells the browser this is an HTML5 document -->
+<html lang="en">
+  <!-- The root of your webpage, with English as the language -->
+  <head>
+    <meta charset="UTF-8" />
+    <!-- Ensures the webpage displays characters correctly -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Makes the page mobile-friendly -->
+    <title>My Personal Website</title>
+    <!-- The title shown on the browser tab -->
+    <link rel="stylesheet" href="style.css" />
+    <!-- Links to your CSS file for styling -->
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png" />
+    <link rel="manifest" href="site.webmanifest" />
+  </head>
+  <body>
     <header>
-        <h1>Keith Drewnoski</h1> <!-- Your name as the page title -->
-        <p>Aspiring Software Developer | Former Educator</p> <!-- A short tagline -->
+      <h1>Keith Drewnoski</h1>
+      <!-- Your name as the page title -->
+      <p>QA Engineer | Entry-Level Software Developer | Former Educator</p>
+      <!-- A short tagline -->
     </header>
 
-    <nav> <!-- Navigation bar (optional, but good practice) -->
-        <ul>
-            <li><a href="#about">About Me</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
+    <nav>
+      <!-- Navigation bar (optional, but good practice) -->
+      <ul>
+        <li><a href="#about">About Me</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
     </nav>
 
     <section id="about">
-        <h2>About Me</h2>
-        <p>Hello! I'm Keith Drewnoski, a former educator now transitioning into software development. With gained experience from The Tecch Academy, and a passionate about learning and building useful applications.</p>
-        <img src="images/profile.jpeg" alt="Your Name" class="profile-pic">
+      <h2>About Me</h2>
+      <p>
+        Hello! I'm Keith Drewnoski, a Quality Assurance professional and
+        aspiring software developer with a unique background in education.
+      </p>
+
+      <p>
+        After nearly a decade as a behavioral special education teacher, I
+        transitioned to software development, completing the Tech Academy Video
+        Game Development Bootcamp. I've gained hands-on experience testing
+        production Angular-based web applications, performing functional,
+        regression, and exploratory testing across multiple user roles and
+        permission levels.
+      </p>
+
+      <p>
+        My background in education has equipped me with strong analytical
+        thinking, attention to detail, and communication skills—all of which
+        translate directly to QA work and software development. I'm passionate
+        about ensuring software works flawlessly for end users and building
+        reliable, user-friendly applications.
+      </p>
+
+      <p>
+        <strong>Technical Skills:</strong> JavaScript, TypeScript, Angular,
+        HTML, CSS, Git/GitHub, Unity, Unreal Engine, Python, C#, SQL
+      </p>
+
+      <p>
+        <strong>Currently Seeking:</strong> QA Engineer, Software Tester, or
+        entry-level software development roles. Open to full-time positions,
+        internships, and apprenticeships in gaming, educational software, or any
+        industry where quality matters.
+      </p>
+
+      <img
+        src="images/profile.jpeg"
+        alt="Keith Drewnoski"
+        class="profile-pic"
+      />
     </section>
 
     <section id="projects">
-        <h2>Projects</h2>
-        <p id="no-projects-message"> More projects coming soon! Stay tuned.</p>
-        <div id="projects-container">
-            <!-- JavaScript will populate this area -->
+      <h2>Projects</h2>
+      <div id="projects-container">
+        <div class="project">
+          <h3>Production Web Application Testing</h3>
+          <p>
+            Performed comprehensive QA testing on a production Angular-based web
+            application, including functional, regression, and exploratory
+            testing. Identified bugs, edge cases, and provided UX feedback
+            across multiple user roles and permission levels.
+          </p>
+          <p>
+            <strong>Technologies:</strong> Angular, TypeScript, JavaScript,
+            HTML, CSS
+          </p>
+          <p>
+            <strong>Skills Demonstrated:</strong> Functional Testing, Regression
+            Testing, Cross-browser Testing, Bug Identification, User Experience
+            Testing
+          </p>
         </div>
+
+        <div class="project">
+          <h3>Game Development & Testing</h3>
+          <p>
+            Built and tested games using Unity (C#) and Unreal Engine (C++)
+            during bootcamp. Created test scenarios, identified bugs in gameplay
+            systems, and optimized game performance. Collaborated on team
+            projects using Git/GitHub and Agile methodologies.
+          </p>
+          <p>
+            <strong>Technologies:</strong> C#, C++, Unity, Unreal Engine,
+            Git/GitHub
+          </p>
+          <p>
+            <strong>Skills Demonstrated:</strong> Game Testing, Debugging,
+            Performance Optimization, Team Collaboration
+          </p>
+        </div>
+
+        <div class="project">
+          <h3>Unit Converter Application</h3>
+          <p>
+            A simple unit converter application built with JavaScript, HTML, and
+            CSS. Demonstrates clean code practices and user interface design.
+          </p>
+          <p><strong>Technologies:</strong> JavaScript, HTML, CSS</p>
+          <p>
+            <strong>Skills Demonstrated:</strong> Frontend Development, User
+            Interface Design, JavaScript Programming
+          </p>
+        </div>
+      </div>
     </section>
 
-    <script src="script.js"></script> <!-- Links to the JavaScript file -->
+    <script src="script.js"></script>
+    <!-- Links to the JavaScript file -->
 
     <section id="contact">
-        <h2>Contact</h2>
-        <div class="social-links">
-            <a href="https://github.com/DrewnoskiDev"" target="_blank">
-                <img src="images/github-icon.png" alt="GitHub">
-            </a>
-            <a href="https://www.linkedin.com/in/keith-drewnoski-131846283/" target="_blank">
-                <img src="images/linkedin-icon.png" alt="LinkedIn">
-            </a>
-            <a href="mailto:drewnoski.dev@gmail.com">
-                <img src="images/email-icon.png" alt="Email">
-            </a>
-        </div>        
+      <h2>Contact</h2>
+      <div class="social-links">
+        <a href="https://github.com/DrewnoskiDev" target="_blank">
+          <img src="images/github-icon.png" alt="GitHub" />
+        </a>
+        <a
+          href="https://www.linkedin.com/in/keith-drewnoski-131846283/"
+          target="_blank"
+        >
+          <img src="images/linkedin-icon.png" alt="LinkedIn" />
+        </a>
+        <a href="mailto:drewnoski.dev@gmail.com">
+          <img src="images/email-icon.png" alt="Email" />
+        </a>
+      </div>
     </section>
-
-</body>
+  </body>
 </html>
